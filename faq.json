@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What is the return policy?",
+      "answer": "You can return any item within 30 days of purchase for a full refund. Items must be in original condition with all tags attached. Return shipping is free for domestic orders. For international returns, customers are responsible for return shipping costs."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Standard shipping usually takes 3-5 business days for domestic orders. Express shipping (1-2 business days) is available for an additional fee. International shipping typically takes 7-14 business days depending on the destination country."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to over 50 countries worldwide including China, Canada, UK, Australia, and most European countries. International shipping costs and delivery times vary by location. You can check shipping rates during checkout."
+    },
+    {
+      "question": "What is your contact number?",
+      "answer": "You can reach our customer support team at 1-800-SUPPORT (1-800-888-8888) Monday through Friday, 9 AM to 6 PM EST. For urgent matters, you can also email us at support@company.com."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Once your order ships, you'll receive a tracking number via email. You can also track your order by logging into your account on our website and visiting the 'My Orders' section."
+    },
+    {
+      "question": "Do you offer free shipping?",
+      "answer": "Yes, we offer free standard shipping on all domestic orders over $50. International orders over $100 also qualify for free shipping. Orders below these thresholds have a flat shipping rate of $5.99 for domestic and $15.99 for international."
+    }
+]
+  
